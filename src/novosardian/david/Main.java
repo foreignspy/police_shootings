@@ -60,6 +60,7 @@ public class Main {
             }
         }
 
+        
         policeList.close();
 
         int male = 0;
